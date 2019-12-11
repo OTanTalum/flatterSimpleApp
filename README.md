@@ -1,4 +1,7 @@
-# flutter_app
+# Flutter Simple App
+![Imgur](https://i.imgur.com/atvYbyI.jpg?1)
+![Imgur](https://i.imgur.com/fhCn0Ui.jpg?1)
+![Imgur](https://i.imgur.com/1r4Uas0.jpg?1)
 
 A new Flutter application.
 
